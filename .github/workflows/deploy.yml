@@ -1,0 +1,6 @@
+name: Deploy to assets.<USERNAME>.github.io
+
+on:
+  push:
+    branches:
+      - main
